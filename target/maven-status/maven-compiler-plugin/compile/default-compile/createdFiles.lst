@@ -1,0 +1,8 @@
+com/inteliment/service/AbstractBase.class
+com/inteliment/Application.class
+com/inteliment/service/TextDataService.class
+com/inteliment/controller/CounterController.class
+com/inteliment/service/SecurityConfigurationService.class
+com/inteliment/dao/TextDataDao.class
+com/inteliment/bean/RequestSearchText.class
+com/inteliment/bean/TextData.class
